@@ -15,6 +15,8 @@
 #define ZMK_MOUSE_DEFAULT_MOVE_VAL 1200  //  600
 #define ZMK_MOUSE_DEFAULT_SCRL_VAL 20    // 10
 
+&sl { /delete-property/ quick-release; };
+
 / {
     behaviors {
         mmv {
@@ -59,21 +61,11 @@
 &kp TAB     &kp LGUI   &kp W         &kp F         &kp P     &kp B        &kp DOWN_ARROW   &kp J      &kp L                           &kp U         &kp Y            &kp Q       &kp LS(UNDER)
 &kp LSHFT   &kp A      &kp R         &kp S         &kp T     &kp G        &kp LEFT_ARROW   &kp M      &kp N                           &kp E         &kp I            &kp O       &kp COMMA
 &kp LCTRL   &kp Z      &kp X         &kp C         &kp D     &kp V        &kp RIGHT_ARROW  &kp K      &kp H                           &kp C         &kp X            &kp Z       &kp DOT
-&kp C_MUTE  &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &kp LALT  &kp SPACE    &kp ENTER        &kp ENTER  &ct_CustomTap RSHIFT BACKSPACE  &mo 3         &kp RIGHT_SHIFT  &kp DELETE
+&kp C_MUTE  &kp LCTRL  &kp LEFT_GUI  &kp LEFT_ALT  &kp LALT  &kp SPACE    &kp ENTER        &kp ENTER  &ct_CustomTap RSHIFT BACKSPACE  &mo 2         &kp RIGHT_SHIFT  &kp DELETE
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
             display-name = "LAYER0";
-        };
-
-        layer_3 {
-            bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-            >;
         };
 
         layer_1 {
