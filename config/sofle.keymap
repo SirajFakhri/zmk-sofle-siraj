@@ -74,6 +74,86 @@
             bindings = <&kp DELETE>;
             key-positions = <18 17>;
         };
+
+        combo_ctrlz {
+            bindings = <&kp DELETE>;
+            key-positions = <40 41>;
+        };
+
+        combo_ctrlx {
+            bindings = <&kp DELETE>;
+            key-positions = <41 42>;
+        };
+
+        combo_ctrlc {
+            bindings = <&kp DELETE>;
+            key-positions = <42 43>;
+        };
+
+        combo_ctrlv {
+            bindings = <&kp DELETE>;
+            key-positions = <43 41>;
+        };
+
+        combo_ctrlshftz {
+            bindings = <&kp DELETE>;
+            key-positions = <41 40 57>;
+        };
+
+        combo_ctrlshftc {
+            bindings = <&none>;
+            key-positions = <42 43 57>;
+        };
+
+        combo_ctrlshftv {
+            bindings = <&none>;
+            key-positions = <57 43 41>;
+        };
+
+        combo_pauseprint {
+            bindings = <&kp PAUSE_BREAK>;
+            key-positions = <29 18>;
+        };
+
+        combo_comma {
+            bindings = <&kp COMMA>;
+            key-positions = <34 35>;
+        };
+
+        combo_fullstop {
+            bindings = <&kp PERIOD>;
+            key-positions = <35 36>;
+        };
+
+        combo_dash {
+            bindings = <&kp MINUS>;
+            key-positions = <48 49>;
+        };
+
+        combo_underscore {
+            bindings = <&kp UNDER>;
+            key-positions = <47 49>;
+        };
+
+        combo_colon {
+            bindings = <&kp COLON>;
+            key-positions = <34 36>;
+        };
+
+        combo_ctrlo {
+            bindings = <&none>;
+            key-positions = <39 31>;
+        };
+
+        combo_ctrln {
+            bindings = <&none>;
+            key-positions = <39 18>;
+        };
+
+        combo_ctrlj {
+            bindings = <&none>;
+            key-positions = <44 43>;
+        };
     };
 
     keymap {
