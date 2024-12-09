@@ -594,3 +594,35 @@ combos:
   k: {t: '$$mdi:backspace$$', type: backspace}
 - p: [18, 17]
   k: $$mdi:backspace-reverse-outline$$
+- p: [40, 41]
+  k: $$mdi:backspace-reverse-outline$$
+- p: [41, 42]
+  k: $$mdi:backspace-reverse-outline$$
+- p: [42, 43]
+  k: $$mdi:backspace-reverse-outline$$
+- p: [43, 41]
+  k: $$mdi:backspace-reverse-outline$$
+- p: [41, 40, 57]
+  k: $$mdi:backspace-reverse-outline$$
+- p: [42, 43, 57]
+  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+- p: [57, 43, 41]
+  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+- p: [29, 18]
+  k: PAUSE BREAK
+- p: [34, 35]
+  k: {t: ',', s: <}
+- p: [35, 36]
+  k: .
+- p: [48, 49]
+  k: {t: '-', s: _}
+- p: [47, 49]
+  k: _
+- p: [34, 36]
+  k: ':'
+- p: [39, 31]
+  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+- p: [39, 18]
+  k: {t: '$$mdi:minus-circle-outline$$', type: none}
+- p: [44, 43]
+  k: {t: '$$mdi:minus-circle-outline$$', type: none}
