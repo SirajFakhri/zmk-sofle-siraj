@@ -377,7 +377,7 @@
 &kp LEFT_WIN  &to 0      &to 6  &to 8  &to 2     &to 2        &kp UP_ARROW     &kp FSLH     &kp LS(QMARK)                   &kp LS(EXCL)  &kp SQT  &kp N0  &kp MINUS
 &kp TAB       &kp GRAVE  &kp W  &kp F  &kp P     &kp B        &kp DOWN_ARROW   &kp J        &kp L                           &kp U         &kp Y    &kp Q   &kp LS(UNDER)
 &kp LSHFT     &kp A      &kp R  &kp S  &kp T     &kp G        &kp LEFT_ARROW   &kp M        &kp N                           &kp E         &kp I    &kp O   &kp COMMA
-&kp LCTRL     &kp O      &kp E  &kp I  &kp D     &kp V        &kp RIGHT_ARROW  &kp K        &kp H                           &kp C         &kp X    &kp Z   &kp DOT
+&kp LCTRL     &kp D      &kp E  &kp V  &kp D     &kp V        &kp RIGHT_ARROW  &kp K        &kp H                           &kp C         &kp X    &kp Z   &kp DOT
 &kp C_MUTE    &kp F2     &mo 5  &mo 1  &kp LALT  &kp SPACE    &kp ENTER        &lt 3 ENTER  &ct_CustomTap RSHIFT BACKSPACE  &trans        &trans   &trans
             >;
 
