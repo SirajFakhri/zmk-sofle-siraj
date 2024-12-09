@@ -41,9 +41,9 @@ layers:
   - O
   - {t: ',', s: <}
   - $$mdi:apple-keyboard-control$$
-  - Z
-  - X
-  - C
+  - O
+  - E
+  - I
   - D
   - V
   - $$mdi:arrow-right-bold$$
@@ -659,19 +659,19 @@ combos:
   k: '&macro_ctrlbkspc'
 - p: [18, 17]
   k: $$mdi:backspace-reverse-outline$$
-- p: [40, 41]
+- p: [40, 39]
   k: '&macro_ctrlz'
-- p: [41, 42]
+- p: [41, 40]
   k: '&macro_ctrlx'
-- p: [42, 43]
+- p: [42, 41]
   k: '&macro_ctrlc'
-- p: [43, 41]
+- p: [42, 40]
   k: '&macro_ctrlv'
-- p: [41, 40, 57]
+- p: [40, 57, 39]
   k: '&macro_ctrlshftz'
-- p: [42, 43, 57]
+- p: [42, 57, 41]
   k: '&macro_ctrlshftc'
-- p: [57, 43, 41]
+- p: [57, 40, 42]
   k: '&macro_ctrlshftv'
 - p: [29, 18]
   k: PAUSE BREAK
