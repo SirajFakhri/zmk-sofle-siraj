@@ -751,6 +751,18 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="266" y="190" width="28" height="26" class="combo"/>
 <text x="280" y="203" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ct…</tspan></text>
 </g>
+<g class="combo combopos-20">
+<path d="M252,144 l37,2" class="combo"/>
+<path d="M252,144 l-37,-2" class="combo"/>
+<rect rx="6" ry="6" x="238" y="130" width="28" height="26" class="combo"/>
+<text x="252" y="144" class="combo tap">RETURN</text>
+</g>
+<g class="combo combopos-21">
+<path d="M196,102 l-93,9" class="combo"/>
+<path d="M196,102 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="182" y="89" width="28" height="26" class="combo"/>
+<text x="196" y="102" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ne…</tspan></text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 388)" class="layer-layer1">
@@ -1217,6 +1229,18 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="266" y="190" width="28" height="26" class="combo"/>
 <text x="280" y="203" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ct…</tspan></text>
 </g>
+<g class="combo combopos-20">
+<path d="M252,144 l37,2" class="combo"/>
+<path d="M252,144 l-37,-2" class="combo"/>
+<rect rx="6" ry="6" x="238" y="130" width="28" height="26" class="combo"/>
+<text x="252" y="144" class="combo tap">RETURN</text>
+</g>
+<g class="combo combopos-21">
+<path d="M196,102 l-93,9" class="combo"/>
+<path d="M196,102 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="182" y="89" width="28" height="26" class="combo"/>
+<text x="196" y="102" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ne…</tspan></text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 776)" class="layer-Number_Layer">
@@ -1667,6 +1691,18 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="266" y="190" width="28" height="26" class="combo"/>
 <text x="280" y="203" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ct…</tspan></text>
 </g>
+<g class="combo combopos-20">
+<path d="M252,144 l37,2" class="combo"/>
+<path d="M252,144 l-37,-2" class="combo"/>
+<rect rx="6" ry="6" x="238" y="130" width="28" height="26" class="combo"/>
+<text x="252" y="144" class="combo tap">RETURN</text>
+</g>
+<g class="combo combopos-21">
+<path d="M196,102 l-93,9" class="combo"/>
+<path d="M196,102 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="182" y="89" width="28" height="26" class="combo"/>
+<text x="196" y="102" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ne…</tspan></text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1165)" class="layer-Sym_Layer">
@@ -2102,6 +2138,18 @@ rect.held, rect.combo.held {
 <g class="combo combopos-19">
 <rect rx="6" ry="6" x="266" y="190" width="28" height="26" class="combo"/>
 <text x="280" y="203" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ct…</tspan></text>
+</g>
+<g class="combo combopos-20">
+<path d="M252,144 l37,2" class="combo"/>
+<path d="M252,144 l-37,-2" class="combo"/>
+<rect rx="6" ry="6" x="238" y="130" width="28" height="26" class="combo"/>
+<text x="252" y="144" class="combo tap">RETURN</text>
+</g>
+<g class="combo combopos-21">
+<path d="M196,102 l-93,9" class="combo"/>
+<path d="M196,102 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="182" y="89" width="28" height="26" class="combo"/>
+<text x="196" y="102" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ne…</tspan></text>
 </g>
 </g>
 </g>
@@ -2543,6 +2591,18 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="266" y="190" width="28" height="26" class="combo"/>
 <text x="280" y="203" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ct…</tspan></text>
 </g>
+<g class="combo combopos-20">
+<path d="M252,144 l37,2" class="combo"/>
+<path d="M252,144 l-37,-2" class="combo"/>
+<rect rx="6" ry="6" x="238" y="130" width="28" height="26" class="combo"/>
+<text x="252" y="144" class="combo tap">RETURN</text>
+</g>
+<g class="combo combopos-21">
+<path d="M196,102 l-93,9" class="combo"/>
+<path d="M196,102 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="182" y="89" width="28" height="26" class="combo"/>
+<text x="196" y="102" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ne…</tspan></text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1941)" class="layer-Program_Layer">
@@ -2969,6 +3029,18 @@ rect.held, rect.combo.held {
 <g class="combo combopos-19">
 <rect rx="6" ry="6" x="266" y="190" width="28" height="26" class="combo"/>
 <text x="280" y="203" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ct…</tspan></text>
+</g>
+<g class="combo combopos-20">
+<path d="M252,144 l37,2" class="combo"/>
+<path d="M252,144 l-37,-2" class="combo"/>
+<rect rx="6" ry="6" x="238" y="130" width="28" height="26" class="combo"/>
+<text x="252" y="144" class="combo tap">RETURN</text>
+</g>
+<g class="combo combopos-21">
+<path d="M196,102 l-93,9" class="combo"/>
+<path d="M196,102 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="182" y="89" width="28" height="26" class="combo"/>
+<text x="196" y="102" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ne…</tspan></text>
 </g>
 </g>
 </g>
@@ -3399,6 +3471,18 @@ rect.held, rect.combo.held {
 <g class="combo combopos-19">
 <rect rx="6" ry="6" x="266" y="190" width="28" height="26" class="combo"/>
 <text x="280" y="203" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ct…</tspan></text>
+</g>
+<g class="combo combopos-20">
+<path d="M252,144 l37,2" class="combo"/>
+<path d="M252,144 l-37,-2" class="combo"/>
+<rect rx="6" ry="6" x="238" y="130" width="28" height="26" class="combo"/>
+<text x="252" y="144" class="combo tap">RETURN</text>
+</g>
+<g class="combo combopos-21">
+<path d="M196,102 l-93,9" class="combo"/>
+<path d="M196,102 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="182" y="89" width="28" height="26" class="combo"/>
+<text x="196" y="102" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ne…</tspan></text>
 </g>
 </g>
 </g>
@@ -3832,6 +3916,18 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="266" y="190" width="28" height="26" class="combo"/>
 <text x="280" y="203" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ct…</tspan></text>
 </g>
+<g class="combo combopos-20">
+<path d="M252,144 l37,2" class="combo"/>
+<path d="M252,144 l-37,-2" class="combo"/>
+<rect rx="6" ry="6" x="238" y="130" width="28" height="26" class="combo"/>
+<text x="252" y="144" class="combo tap">RETURN</text>
+</g>
+<g class="combo combopos-21">
+<path d="M196,102 l-93,9" class="combo"/>
+<path d="M196,102 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="182" y="89" width="28" height="26" class="combo"/>
+<text x="196" y="102" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ne…</tspan></text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 3106)" class="layer-Coat_Layer">
@@ -4261,6 +4357,18 @@ rect.held, rect.combo.held {
 <g class="combo combopos-19">
 <rect rx="6" ry="6" x="266" y="190" width="28" height="26" class="combo"/>
 <text x="280" y="203" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ct…</tspan></text>
+</g>
+<g class="combo combopos-20">
+<path d="M252,144 l37,2" class="combo"/>
+<path d="M252,144 l-37,-2" class="combo"/>
+<rect rx="6" ry="6" x="238" y="130" width="28" height="26" class="combo"/>
+<text x="252" y="144" class="combo tap">RETURN</text>
+</g>
+<g class="combo combopos-21">
+<path d="M196,102 l-93,9" class="combo"/>
+<path d="M196,102 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="182" y="89" width="28" height="26" class="combo"/>
+<text x="196" y="102" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ne…</tspan></text>
 </g>
 </g>
 </g>
@@ -4695,6 +4803,18 @@ rect.held, rect.combo.held {
 <g class="combo combopos-19">
 <rect rx="6" ry="6" x="266" y="190" width="28" height="26" class="combo"/>
 <text x="280" y="203" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ct…</tspan></text>
+</g>
+<g class="combo combopos-20">
+<path d="M252,144 l37,2" class="combo"/>
+<path d="M252,144 l-37,-2" class="combo"/>
+<rect rx="6" ry="6" x="238" y="130" width="28" height="26" class="combo"/>
+<text x="252" y="144" class="combo tap">RETURN</text>
+</g>
+<g class="combo combopos-21">
+<path d="M196,102 l-93,9" class="combo"/>
+<path d="M196,102 l93,-9" class="combo"/>
+<rect rx="6" ry="6" x="182" y="89" width="28" height="26" class="combo"/>
+<text x="196" y="102" class="combo tap"><tspan style="font-size: 60%">&amp;macro_ne…</tspan></text>
 </g>
 </g>
 </g>

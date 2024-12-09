@@ -691,3 +691,7 @@ combos:
   k: '&macro_ctrln'
 - p: [44, 43]
   k: '&macro_ctrlj'
+- p: [31, 29]
+  k: RETURN
+- p: [14, 18]
+  k: '&macro_newwindow'
