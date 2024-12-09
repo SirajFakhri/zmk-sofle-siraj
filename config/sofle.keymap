@@ -52,6 +52,30 @@
         flavor = "balanced";
     };
 
+    combos {
+        compatible = "zmk,combos";
+
+        combo_escape {
+            bindings = <&kp ESCAPE>;
+            key-positions = <14 15>;
+        };
+
+        combo_bkspc {
+            bindings = <&kp BACKSPACE>;
+            key-positions = <16 17>;
+        };
+
+        combo_ctrlbkspc {
+            bindings = <&kp BACKSPACE>;
+            key-positions = <16 15>;
+        };
+
+        combo_delete {
+            bindings = <&kp DELETE>;
+            key-positions = <18 17>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
