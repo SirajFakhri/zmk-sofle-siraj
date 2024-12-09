@@ -77,37 +77,37 @@
 
         combo_ctrlz {
             bindings = <&macro_ctrlz>;
-            key-positions = <40 41>;
+            key-positions = <40 39>;
         };
 
         combo_ctrlx {
             bindings = <&macro_ctrlx>;
-            key-positions = <41 42>;
+            key-positions = <41 40>;
         };
 
         combo_ctrlc {
             bindings = <&macro_ctrlc>;
-            key-positions = <42 43>;
+            key-positions = <42 41>;
         };
 
         combo_ctrlv {
             bindings = <&macro_ctrlv>;
-            key-positions = <43 41>;
+            key-positions = <42 40>;
         };
 
         combo_ctrlshftz {
             bindings = <&macro_ctrlshftz>;
-            key-positions = <41 40 57>;
+            key-positions = <40 57 39>;
         };
 
         combo_ctrlshftc {
             bindings = <&macro_ctrlshftc>;
-            key-positions = <42 43 57>;
+            key-positions = <42 57 41>;
         };
 
         combo_ctrlshftv {
             bindings = <&macro_ctrlshftv>;
-            key-positions = <57 43 41>;
+            key-positions = <57 40 42>;
         };
 
         combo_pauseprint {
@@ -377,7 +377,7 @@
 &kp LEFT_WIN  &to 0      &to 6  &to 8  &to 2     &to 2        &kp UP_ARROW     &kp FSLH     &kp LS(QMARK)                   &kp LS(EXCL)  &kp SQT  &kp N0  &kp MINUS
 &kp TAB       &kp GRAVE  &kp W  &kp F  &kp P     &kp B        &kp DOWN_ARROW   &kp J        &kp L                           &kp U         &kp Y    &kp Q   &kp LS(UNDER)
 &kp LSHFT     &kp A      &kp R  &kp S  &kp T     &kp G        &kp LEFT_ARROW   &kp M        &kp N                           &kp E         &kp I    &kp O   &kp COMMA
-&kp LCTRL     &kp Z      &kp X  &kp C  &kp D     &kp V        &kp RIGHT_ARROW  &kp K        &kp H                           &kp C         &kp X    &kp Z   &kp DOT
+&kp LCTRL     &kp O      &kp E  &kp I  &kp D     &kp V        &kp RIGHT_ARROW  &kp K        &kp H                           &kp C         &kp X    &kp Z   &kp DOT
 &kp C_MUTE    &kp F2     &mo 5  &mo 1  &kp LALT  &kp SPACE    &kp ENTER        &lt 3 ENTER  &ct_CustomTap RSHIFT BACKSPACE  &trans        &trans   &trans
             >;
 
