@@ -154,6 +154,16 @@
             bindings = <&macro_ctrlj>;
             key-positions = <44 43>;
         };
+
+        combo_return {
+            bindings = <&kp RETURN>;
+            key-positions = <31 29>;
+        };
+
+        combo_newwindow {
+            bindings = <&macro_newwindow>;
+            key-positions = <14 18>;
+        };
     };
 
     macros {
@@ -342,6 +352,20 @@
             #binding-cells = <0>;
             bindings = <&kp N9 &kp N0>;
             label = "MACRO_90";
+        };
+
+        macro_newwindow: macro_newwindow {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings =
+                <&macro_press>,
+                <&kp LCTRL>,
+                <&macro_tap>,
+                <&kp E>,
+                <&macro_release>,
+                <&kp LCTRL>;
+
+            label = "MACRO_NEWWINDOW";
         };
     };
 
