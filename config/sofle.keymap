@@ -58,91 +58,109 @@
         combo_escape {
             bindings = <&kp ESCAPE>;
             key-positions = <14 15>;
+            timeout-ms = <35>;
         };
 
         combo_bkspc {
             bindings = <&kp BACKSPACE>;
             key-positions = <16 17>;
+            timeout-ms = <35>;
         };
 
         combo_ctrlbkspc {
             bindings = <&macro_ctrlbkspc>;
             key-positions = <16 15>;
+            timeout-ms = <35>;
         };
 
         combo_delete {
             bindings = <&kp DELETE>;
             key-positions = <18 17>;
+            timeout-ms = <35>;
         };
 
         combo_ctrlz {
             bindings = <&macro_ctrlz>;
             key-positions = <40 39>;
+            timeout-ms = <35>;
         };
 
         combo_ctrlx {
             bindings = <&macro_ctrlx>;
             key-positions = <41 40>;
+            timeout-ms = <35>;
         };
 
         combo_ctrlc {
             bindings = <&macro_ctrlc>;
             key-positions = <42 41>;
+            timeout-ms = <35>;
         };
 
         combo_ctrlv {
             bindings = <&macro_ctrlv>;
             key-positions = <42 40>;
+            timeout-ms = <35>;
         };
 
         combo_ctrlshftz {
             bindings = <&macro_ctrlshftz>;
             key-positions = <40 57 39>;
+            timeout-ms = <35>;
         };
 
         combo_ctrlshftc {
             bindings = <&macro_ctrlshftc>;
             key-positions = <42 57 41>;
+            timeout-ms = <35>;
         };
 
         combo_ctrlshftv {
             bindings = <&macro_ctrlshftv>;
             key-positions = <57 40 42>;
+            timeout-ms = <35>;
         };
 
         combo_pauseprint {
             bindings = <&kp PAUSE_BREAK>;
             key-positions = <29 18>;
+            timeout-ms = <35>;
         };
 
         combo_comma {
             bindings = <&kp COMMA>;
             key-positions = <34 35>;
+            timeout-ms = <35>;
         };
 
         combo_fullstop {
             bindings = <&kp PERIOD>;
             key-positions = <35 36>;
+            timeout-ms = <35>;
         };
 
         combo_dash {
             bindings = <&kp MINUS>;
             key-positions = <48 49>;
+            timeout-ms = <35>;
         };
 
         combo_underscore {
             bindings = <&kp UNDER>;
             key-positions = <47 49>;
+            timeout-ms = <35>;
         };
 
         combo_colon {
             bindings = <&kp COLON>;
             key-positions = <34 36>;
+            timeout-ms = <35>;
         };
 
         combo_ctrlo {
             bindings = <&macro_ctrlo>;
             key-positions = <39 31>;
+            timeout-ms = <35>;
         };
 
         combo_ctrln {
@@ -150,19 +168,16 @@
             key-positions = <39 18>;
         };
 
-        combo_ctrlj {
-            bindings = <&macro_ctrlj>;
-            key-positions = <44 43>;
-        };
-
         combo_return {
             bindings = <&kp RETURN>;
             key-positions = <31 29>;
+            timeout-ms = <35>;
         };
 
         combo_newwindow {
             bindings = <&macro_newwindow>;
             key-positions = <14 18>;
+            timeout-ms = <35>;
         };
     };
 
@@ -378,7 +393,7 @@
 &kp TAB       &kp GRAVE  &kp W  &kp F  &kp P     &kp B        &kp DOWN_ARROW   &kp J        &kp L                           &kp U         &kp Y    &kp Q   &kp LS(UNDER)
 &kp LSHFT     &kp A      &kp R  &kp S  &kp T     &kp G        &kp LEFT_ARROW   &kp M        &kp N                           &kp E         &kp I    &kp O   &kp COMMA
 &kp LCTRL     &kp H      &kp M  &kp J  &kp D     &kp V        &kp RIGHT_ARROW  &kp K        &kp H                           &kp C         &kp X    &kp Z   &kp DOT
-&kp C_MUTE    &kp F2     &mo 5  &mo 1  &kp LALT  &kp SPACE    &kp ENTER        &lt 3 ENTER  &ct_CustomTap RSHIFT BACKSPACE  &trans        &trans   &trans
+&kp C_MUTE    &kp F2     &mo 5  &mo 1  &kp LALT  &kp SPACE    &kp ENTER        &lt 3 ENTER  &ct_CustomTap RSHIFT BACKSPACE  &mo 2         &trans   &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
@@ -404,7 +419,7 @@
 &trans  &trans  &kp N7  &kp N8  &kp N9  &kp N0    &trans  &trans  &kp N4  &kp N5  &kp N6  &trans  &trans
 &trans  &trans  &kp N4  &kp N5  &kp N6  &trans    &trans  &trans  &kp N1  &kp N2  &kp N3  &trans  &trans
 &trans  &trans  &kp N1  &kp N2  &kp N3  &trans    &trans  &trans  &trans  &kp N0  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &kp N0  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
