@@ -15,7 +15,7 @@ layers:
   - {t: '0', s: )}
   - {t: '-', s: _}
   - $$mdi:keyboard-tab$$
-  - G
+  - Q
   - W
   - F
   - P
@@ -32,7 +32,7 @@ layers:
   - R
   - S
   - T
-  - {t: '`', s: '~'}
+  - G
   - $$mdi:arrow-left-bold$$
   - M
   - N
